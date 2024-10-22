@@ -18,4 +18,4 @@ longitud = int(input("Cual es la longitud de la contraseña deseada: ")) #pedimo
 
 nueva_password = generar_contraseña(longitud)#guardo el resultado de la funcion en una variable
 
-print(f"La contraseña es: {nueva_password}") #muestro el resultado 
+print(f"La contraseña es: {nueva_password}") #muestro el resultado de la contraseña 
